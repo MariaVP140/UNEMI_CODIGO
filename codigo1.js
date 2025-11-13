@@ -20,4 +20,6 @@ console.log(numeroInvertido); // → 4321
 // 1) Hola mundo
 console.log("¡Hola, mundo!");
 
+// Hola, soy Usuario 2 y este es mi cambio.
+
 
