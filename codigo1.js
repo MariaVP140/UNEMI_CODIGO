@@ -16,3 +16,6 @@ let resultado = invertido.join(""); // "4321"
 let numeroInvertido = parseInt(resultado);
 
 console.log(numeroInvertido); // → 4321
+
+// 1) Hola mundo
+console.log("¡Hola, mundo!");
