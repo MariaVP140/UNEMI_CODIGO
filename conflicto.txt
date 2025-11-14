@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Linea original en main
+=======
+Este es el cambio desde la rama rama-conflicto
+>>>>>>> rama-conflicto
